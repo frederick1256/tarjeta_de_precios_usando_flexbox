@@ -1,0 +1,116 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(83, 81, 224);
+
+}
+
+.head {
+    text-align: center;
+    color: white;
+}
+
+.emoji {
+    font-size: x-large;
+}
+
+.Price {
+    font-size: 25px;
+    color: rgb(83, 81, 224);
+    font-weight: 500px;
+}
+
+.btnPersonal {
+    background-color: blue;
+    width: 95px;
+    height: 28px;
+    color: white;
+    font-size: 15px;
+}
+
+.contenedor {
+    margin-top: 50px;
+    background-color: rgb(83, 81, 224);
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.caja-lef {
+    background-color: rgb(228, 226, 223);
+    width: 175px;
+    height: 250px;
+    color: rgba(10, 10, 10, 0.262);
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    overflow: hidden;
+    color: black;
+
+
+
+
+
+}
+
+.btnStarter {
+    border: none;
+    background-color: none;
+}
+
+.Starter {
+    color: rgb(223, 155, 53);
+}
+
+.caja-center {
+    background-color: rgb(228, 226, 223);
+    width: 175px;
+    height: 270px;
+    color: rgba(10, 10, 10, 0.262);
+    text-align: center;
+    border-radius: 5px;
+    color: black;
+    padding: 5px;
+    overflow: hidden;
+
+
+
+}
+
+.btnPersonal {
+    border: none;
+    background-color: none;
+}
+
+.center {
+    background-color: bisque;
+    color: black;
+    border: none;
+    font-size: 15px;
+}
+
+.caja-righ {
+    background-color: rgb(228, 226, 223);
+    width: 175px;
+    height: 250px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.btnTeam {
+    border: none;
+    background-color: bisque;
+    color: blue;
+    font-family: Arial;
+    font-size: 15px;
+}
